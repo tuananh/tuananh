@@ -2,7 +2,7 @@
 
 ### (he/him)
 
-I work at [<img src="./assets/vpbank.svg" alt="VPBank" height="18" /> VPBank](https://techcombank.com) on container orchestration, cloud infrastructure and building a better developer experience.
+I work at [<img src="./assets/vpbank.svg" alt="VPBank" height="18" /> VPBank](https://vpbank.com.vn) on container orchestration, cloud infrastructure and building a better developer experience.
 
 Previously, I was at  [<img src="./assets/tcb.svg" alt="Techcombank" height="18" /> Techcombank](https://techcombank.com), and before that was [<img src="./assets/teko.svg" alt="Teko" height="18" /> Teko](https://teko.vn).
 
