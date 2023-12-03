@@ -22,6 +22,7 @@ My latest interest are currently in
 - [wolfi-os](https://github.com/wolfi-dev/os): An OS built for container workload with security in mind. I contribute to wolfi-dev/os among other things.
 - [reader](https://github.com/tuananh/reader):  get a reader mode sharable url for any url - built with cloudflare workers.
 - [reader2](https://github.com/tuananh/reader2): Similar to above but using go+wasm.
+- [github-followers-watch](https://github.com/tuananh/github-followers-watch): watching changes in your GitHub followers list and commit to GitHub.
 
 ## Talks
 
