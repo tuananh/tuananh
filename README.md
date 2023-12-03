@@ -34,5 +34,5 @@ My latest interest are currently in
 
 ## Blog Posts
 
-- [AWS - The YAML way](https://github.com/tuananh/aws-the-yaml-way): Well, it's AWS - The YAML way.
+- [AWS - The YAML way](https://github.com/tuananh/aws-the-yaml-way): Provision, manage & govern AWS resources with YAML.
 - [How small can it be](https://github.com/tuananh/how-small-can-it-be): An experiment to see how small container image for Java application. Answer: it's pretty damn small.
