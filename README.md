@@ -27,6 +27,7 @@ My latest interest are currently in
 
 ## Talks
 
+- Secured Container Images with Wolfi at FOSSASIA 2024 & OpenInfra Asia Summit 2024.
 - Defending Software Supply Chain Security in Banking or Any Highly Regulated Environment at Viet OpenInfra 2022
 - DevSecOps: Decoding…
 - eBPF: A peek into the future of networking security and more at Vietnam Web Summit 2020.
