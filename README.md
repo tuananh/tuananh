@@ -27,7 +27,7 @@ My latest interest are currently in
 
 ## Talks
 
-- The Road to 0 CVE at DevSecOps Leadership Forum Singapore by Sonatype
+- The Road to 0 CVE at [DevSecOps Leadership Forum Singapore](https://www.sonatype.com/devsecops-leadership-forum-singapore-2024) by Sonatype
 - Secured Container Images with Wolfi at FOSSASIA 2024 & OpenInfra Asia Summit 2024.
 - Defending Software Supply Chain Security in Banking or Any Highly Regulated Environment at Viet OpenInfra 2022
 - DevSecOps: Decoding…
