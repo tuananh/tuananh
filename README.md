@@ -18,6 +18,7 @@ My latest interest are currently in
 ## Projects
 
 - [camaro](https://github.com/tuananh/camaro): Transform XML to JSON using custom XPath template. Focus on performance.
+- [hyper-mcp](https://github.com/tuananh/hyper-mcp): A Model Context Protocol (MCP) server with a plugin system powered by WebAssembly & OCI registry.
 - [helm-oci-proxy](https://github.com/tuananh/helm-oci-proxy): Turn any legacy Helm repo into OCI Helm repo.
 - [wolfi-os](https://github.com/wolfi-dev/os): An OS built for container workload with security in mind. I [contribute to wolfi-dev/os](https://github.com/wolfi-dev/os/commits?author=tuananh) among other things.
 - [reader](https://github.com/tuananh/reader):  get a reader mode sharable url for any url - built with cloudflare workers.
