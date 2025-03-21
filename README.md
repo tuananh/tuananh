@@ -29,12 +29,12 @@ My latest interest are currently in
 ## Talks
 
 - The Road to 0 CVE at [DevSecOps Leadership Forum Singapore](https://www.sonatype.com/devsecops-leadership-forum-singapore-2024) by Sonatype
-- Secured Container Images with Wolfi at FOSSASIA 2024 & OpenInfra Asia Summit 2024.
+- Secured Container Images with Wolfi at [FOSSASIA](https://fossasia.org/) 2024 & [OpenInfra Asia Summit 2024](https://2024.openinfraasia.org/).
 - Defending Software Supply Chain Security in Banking or Any Highly Regulated Environment at Viet OpenInfra 2022
 - DevSecOps: Decoding…
 - eBPF: A peek into the future of networking security and more at Vietnam Web Summit 2020.
 - [Building Docker container: how many ways are too many?](https://www.facebook.com/VietOpenInfra/videos/357437918554003/) at Viet OpenInfra Meetup #24.
-- Building Next Generation Websites with Serverless and Micro-frontend Architecture at Vietnam Web Summit 2019.
+- Building Next Generation Websites with Serverless and Micro-frontend Architecture at [Vietnam Web Summit](https://topdev.vn/vws/) 2019.
 - Cloud Cost Optimization at Scale at Vietnam Web Summit 2018 and Kubernetes Hanoi Meetup #2 (Mar 2018).
 
 ## Blog Posts
