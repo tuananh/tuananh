@@ -10,6 +10,7 @@ I'm passionated about all things container, k8s and cloud.
 
 My latest interest are currently in
 
+- LLM/AI stuff like MCP. My most recent project is [hyper-mcp](https://github.com/tuananh/hyper-mcp). A Rust based MCP server with WASM plugin architecture.
 - Software supply chain security.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os)
 - [awslabs/soci-snapshotter](https://github.com/awslabs/soci-snapshotter)
