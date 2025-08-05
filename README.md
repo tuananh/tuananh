@@ -29,6 +29,7 @@ My latest interest are currently in
 
 ## Talks
 
+- Teach AI new tricks or how to build MCP server from scratch at [OpenInfra & CloudNative Day Vietnam 2025]()
 - The Road to 0 CVE at [DevSecOps Leadership Forum Singapore](https://www.sonatype.com/devsecops-leadership-forum-singapore-2024) by Sonatype
 - Secured Container Images with Wolfi at [FOSSASIA](https://fossasia.org/) 2024 & [OpenInfra Asia Summit 2024](https://2024.openinfraasia.org/).
 - Defending Software Supply Chain Security in Banking or Any Highly Regulated Environment at Viet OpenInfra 2022
