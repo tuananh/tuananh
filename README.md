@@ -18,6 +18,7 @@ My latest interest are currently in
 
 ## Projects
 
+- [apkbuild](https://github.com/tuananh/apkbuild): An example how to build a custom BuildKit frontend so that we can use BuildKit to build Alpine packages.
 - [camaro](https://github.com/tuananh/camaro): Transform XML to JSON using custom XPath template. Focus on performance.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp): A Model Context Protocol (MCP) server with a plugin system powered by WebAssembly & OCI registry. I've moved on from this and transfer it to [joseph-wortmann](https://github.com/joseph-wortmann) now.
 - [helm-oci-proxy](https://github.com/tuananh/helm-oci-proxy): Turn any legacy Helm repo into OCI Helm repo.
