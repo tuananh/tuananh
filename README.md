@@ -6,7 +6,7 @@ I work at [<img src="./assets/vpbank.svg" alt="VPBank" height="18" /> VPBank](ht
 
 Previously, I was at  [<img src="./assets/tcb.svg" alt="Techcombank" height="18" /> Techcombank](https://techcombank.com), and before that was [<img src="./assets/teko.svg" alt="Teko" height="18" /> Teko](https://teko.vn).
 
-I'm passionated about all things container, k8s and cloud.
+I'm passionated about all things security, AI, container, k8s and cloud.
 
 My latest interest are currently in
 
