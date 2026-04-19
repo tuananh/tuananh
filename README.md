@@ -20,7 +20,7 @@ My latest interest are currently in
 
 - [apkbuild](https://github.com/tuananh/apkbuild): An example how to build a custom BuildKit frontend so that we can use BuildKit to build Alpine packages.
 - [camaro](https://github.com/tuananh/camaro): Transform XML to JSON using custom XPath template. Focus on performance.
-- [hyper-mcp](https://github.com/tuananh/hyper-mcp): A Model Context Protocol (MCP) server with a plugin system powered by WebAssembly & OCI registry. I've moved on from this and transfer it to [joseph-wortmann](https://github.com/joseph-wortmann) now.
+- [hyper-mcp](https://github.com/tuananh/hyper-mcp): A Model Context Protocol (MCP) server with a plugin system powered by WebAssembly & OCI registry. I've moved on from this and it now lives at [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp).
 - [helm-oci-proxy](https://github.com/tuananh/helm-oci-proxy): Turn any legacy Helm repo into OCI Helm repo.
 - [wolfi-os](https://github.com/wolfi-dev/os): An OS built for container workload with security in mind. I [contribute to wolfi-dev/os](https://github.com/wolfi-dev/os/commits?author=tuananh) among other things.
 - [reader](https://github.com/tuananh/reader):  get a reader mode sharable url for any url - built with cloudflare workers.
