@@ -1,5 +1,7 @@
 # Hi, I'm Tuan Anh 👋
 
+<a href="https://trendshift.io/developers/8854?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-8854" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/8854" alt="tuananh | Trendshift" width="250" height="55"/></a>
+
 ### (he/him)
 
 I work at [<img src="./assets/vpbank.svg" alt="VPBank" height="18" /> VPBank](https://www.vpbank.com.vn/ca-nhan) on container orchestration, cloud infrastructure, software development and building a better developer experience.
