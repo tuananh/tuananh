@@ -1,6 +1,7 @@
 # Hi, I'm Tuan Anh 👋
 
 <a href="https://trendshift.io/developers/8854?utm_source=developer-badge&amp;utm_medium=badge&amp;utm_campaign=badge-developer-8854" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/developers/8854" alt="tuananh | Trendshift" width="250" height="55"/></a>
+<a href="https://trendshift.io/repositories/13451?utm_source=repository-badge&amp;utm_medium=badge&amp;utm_campaign=badge-repository-13451" target="_blank" rel="noopener noreferrer"><img src="https://trendshift.io/api/badge/repositories/13451" alt="hyper-mcp-rs%2Fhyper-mcp | Trendshift" width="250" height="55"/></a>
 
 ### (he/him)
 
