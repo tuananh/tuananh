@@ -5,9 +5,9 @@
 
 ### (he/him)
 
-I work at [<img src="./assets/vpbank.svg" alt="VPBank" height="18" /> VPBank](https://www.vpbank.com.vn/ca-nhan) on container orchestration, cloud infrastructure, software development and building a better developer experience.
+I steer technical strategy, architecture, and engineering standards at [<img src="./assets/shb.svg" alt="SHB" height="18" /> SHB](https://www.shb.com.vn/) (Digital Division); with a primary focus on software development, alongside cloud infrastructure, platform engineering, and data.
 
-Previously, I was at  [<img src="./assets/tcb.svg" alt="Techcombank" height="18" /> Techcombank](https://techcombank.com), and before that was [<img src="./assets/teko.svg" alt="Teko" height="18" /> Teko](https://teko.vn).
+Previously, I was at [<img src="./assets/vpbank.svg" alt="VPBank" height="18" /> VPBank](https://www.vpbank.com.vn/ca-nhan), [<img src="./assets/tcb.svg" alt="Techcombank" height="18" /> Techcombank](https://techcombank.com), and before that was [<img src="./assets/teko.svg" alt="Teko" height="18" /> Teko](https://teko.vn).
 
 I'm passionated about all things security, AI, container, k8s and cloud.
 
