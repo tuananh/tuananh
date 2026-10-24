@@ -21,9 +21,9 @@ My latest interest are currently in
 
 ## Projects
 
-- [apkbuild](https://github.com/tuananh/apkbuild): A custom BuildKit frontend so that we can use BuildKit to build Alpine packages, mimicking Chainguard's melange syntax.
-- [camaro](https://github.com/tuananh/camaro): Transform XML to JSON using custom XPath template. Focus on performance.
 - [hyper-mcp](https://github.com/tuananh/hyper-mcp): A Model Context Protocol (MCP) server with a plugin system powered by WebAssembly & OCI registry. I've moved on and it now lives at [hyper-mcp-rs/hyper-mcp](https://github.com/hyper-mcp-rs/hyper-mcp), currently maintained by [Joseph Wortmann](https://github.com/joseph-wortmann).
+- [camaro](https://github.com/tuananh/camaro): Transform XML to JSON using custom XPath template. Focus on performance.
+- [apkbuild](https://github.com/tuananh/apkbuild): A custom BuildKit frontend so that we can use BuildKit to build Alpine packages, mimicking Chainguard's melange syntax.
 - [helm-oci-proxy](https://github.com/tuananh/helm-oci-proxy): Turn any legacy Helm repo into OCI Helm repo.
 - [helmoci](https://github.com/tuananh/helmoci): Same as above but built with Cloudflare.
 - [wolfi-os](https://github.com/wolfi-dev/os): An OS built for container workload with security in mind. I [contribute to wolfi-dev/os](https://github.com/wolfi-dev/os/commits?author=tuananh) among other things.
