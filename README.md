@@ -13,6 +13,7 @@ I'm passionated about all things security, AI, container, k8s and cloud.
 
 My latest interest are currently in
 
+- [fastvm](https://github.com/tuananh/fastvm): Hardware-isolated microVMs that snap & awake in milliseconds.
 - LLM/AI stuff like MCP. My most recent project is [hyper-mcp](https://github.com/tuananh/hyper-mcp). A Rust based MCP server with WASM plugin architecture.
 - Software supply chain security.
 - [wolfi-dev/os](https://github.com/wolfi-dev/os)
